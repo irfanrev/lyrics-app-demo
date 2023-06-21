@@ -1,0 +1,13 @@
+{
+    "compilerOptions" : {
+    "modul" : "umum",
+    "target" : "es2016",
+    "jsx" : "melestarikan",
+    "baseUrl" : "./src",
+    "checkJs" : "benar"
+    },
+    "kecualikan" : [
+    "node_modules",
+    "**/node_modules/*"
+    ]
+}
